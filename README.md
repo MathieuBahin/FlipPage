@@ -63,6 +63,6 @@ You will find the Solidworks files in the folder associated.
 
 You can make the assembly if you wish i didn't upload mine. (Also save the PCB in .step from KiCad to have a full assembly)
 
-The box printing time is around 12h30.
+The box printing time is around 12h30 at 40%.
 
-The top printing time is around 1h30.
+The top printing time is around 1h30 at 40%.
