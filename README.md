@@ -34,7 +34,10 @@ I decided to add an extra USB connector as a power input, you can try to use the
 | Arduino Nano          |   $2  |
 | Bluefruit SPI BLE     | $17.5 |
 | USB connector         |  $0.2 |
+| Footswitch            |  $2   |
 
+I used a footswitch like this one :
+<img src="https://github.com/MathieuBahin/FlipPage/blob/main/image/footswitch.jpg" width="200" >
 ### KiCad schematic and routing
 You will find the files in the repository KiCad.
 I printed the PCB at [JLCPCB](https://jlcpcb.com/), reliable and low cost.
