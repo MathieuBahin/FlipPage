@@ -39,14 +39,14 @@ I decided to add an extra USB connector as a power input, you can try to use the
 I used a footswitch like this one :
 <img src="https://github.com/MathieuBahin/FlipPage/blob/main/image/footswitch.jpg" width="200" >
 ### KiCad schematic and routing
-You will find the files in the repository KiCad.
+You will find the files in the folder KiCad.
 I printed the PCB at [JLCPCB](https://jlcpcb.com/), reliable and low cost.
 
 
 ## Arduino development
 You can use whatever IDE fits you, I used the Arduino IDE.
 
-Add the lib to the librairies repository (generaly in Documents\Arduino\librairies).
+Add the lib to the libraries folder (generaly in Documents\Arduino\libraries).
 
 Choose the Board : Arduino Nano and the processor that fits your card.
 
@@ -59,7 +59,7 @@ Now you are done, the only thing left is the casing.
 ## 3D Printer
 My 3D printer is a Creality Ender 3X I'm using black PLA.
 
-You will find the Solidworks files in the repository associated.
+You will find the Solidworks files in the folder associated.
 
 You can make the assembly if you wish i didn't upload mine. (Also save the PCB in .step from KiCad to have a full assembly)
 
