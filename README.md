@@ -4,7 +4,7 @@ I would like to share with you today a project that I developed for my needs.
 
 This product let's you turn pages on your tablet with your feets. That's a game changer when you tried one, you no longer have to stop playing to turn a page etc.
 
-I am a guitarist and I have a software on my tablet that allows me to display my scores on stage without the famous binder with pages that turn when there is wind.
+I am a guitarist and I have a software (MobileSheets) on my tablet that allows me to display my scores on stage without the famous binder with pages that turn when there is wind.
 
 Similar products exist on the market for a price too high for my taste. I have one but it is no longer compatible with my new tablet.
 
@@ -32,9 +32,11 @@ I decided to add an extra USB connector as a power input, you can try to use the
 | Name                  |  Cost |
 | --------------------- |:-----:|
 | Arduino Nano          |   $2  |
-| Bluefruit SPI BLE     | $17.5 |
+| [Bluefruit SPI BLE](https://www.adafruit.com/product/2479)     | $17.5 |
 | USB connector         |  $0.2 |
 | Footswitch            |  $2   |
+| [Nut](https://www.amazon.fr/gp/product/B00WO7N4PA/)      | $8|
+| [Bolt](https://www.amazon.fr/gp/product/B073W7288P/)     | $12|
 
 I used a footswitch like this one :
 <img src="https://github.com/MathieuBahin/FlipPage/blob/main/image/footswitch.jpg" width="200" >
@@ -42,6 +44,7 @@ I used a footswitch like this one :
 You will find the files in the folder KiCad.
 I printed the PCB at [JLCPCB](https://jlcpcb.com/), reliable and low cost.
 
+<img src="https://github.com/MathieuBahin/FlipPage/blob/main/image/FlipPagePCB.jpg" width="200" >
 
 ## Arduino development
 You can use whatever IDE fits you, I used the Arduino IDE.
