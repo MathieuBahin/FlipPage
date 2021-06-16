@@ -2,7 +2,7 @@
 
   (general
     (thickness 1.6)
-    (drawings 13)
+    (drawings 14)
     (tracks 27)
     (zones 0)
     (modules 5)
@@ -17,7 +17,7 @@
     (33 F.Adhes user)
     (34 B.Paste user)
     (35 F.Paste user)
-    (36 B.SilkS user hide)
+    (36 B.SilkS user)
     (37 F.SilkS user)
     (38 B.Mask user hide)
     (39 F.Mask user hide)
@@ -418,7 +418,7 @@
     (descr "Through hole straight pin header, 1x02, 2.54mm pitch, single row")
     (tags "Through hole pin header THT 1x02 2.54mm single row")
     (path /5FA1D680)
-    (fp_text reference J2 (at 0 7.34 180) (layer F.SilkS) hide
+    (fp_text reference J2 (at 1.33 -2.82 180) (layer F.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)))
     )
     (fp_text value Conn_01x02_Male (at 0 4.87 90) (layer F.Fab)
@@ -458,7 +458,7 @@
     (descr "Through hole straight pin header, 1x02, 2.54mm pitch, single row")
     (tags "Through hole pin header THT 1x02 2.54mm single row")
     (path /5FA1C9BF)
-    (fp_text reference J1 (at -0.37 7.34 180) (layer F.SilkS) hide
+    (fp_text reference J1 (at 0.9 -2.82 180) (layer F.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)))
     )
     (fp_text value Conn_01x02_Male (at 0 4.87 90) (layer F.Fab)
@@ -493,10 +493,13 @@
     )
   )
 
-  (gr_text Right (at 105.41 101.6) (layer F.SilkS)
+  (gr_text Right (at 100.33 99.06) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )
-  (gr_text Left (at 105.41 91.44) (layer F.SilkS)
+  (gr_text Left (at 100.33 93.98) (layer F.SilkS)
+    (effects (font (size 1 1) (thickness 0.15)))
+  )
+  (gr_text "Middle / Other" (at 105.41 90.17) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )
   (dimension 22.86 (width 0.15) (layer Dwgs.User)
