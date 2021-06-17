@@ -34,7 +34,7 @@ I decided to add an extra USB connector as a power input, you can try to use the
 | Arduino Nano          |   $2  |
 | [Bluefruit SPI BLE](https://www.adafruit.com/product/2479)     | $17.5 |
 | USB connector         |  $0.2 |
-| Footswitch            |  $2   |
+| [Footswitch](https://www.ebay.fr/itm/262356324402)            |  $4   |
 | [Nut](https://www.amazon.fr/gp/product/B00WO7N4PA/)      | $8|
 | [Bolt](https://www.amazon.fr/gp/product/B073W7288P/)     | $12|
 
