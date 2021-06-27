@@ -10,6 +10,8 @@ Similar products exist on the market for a price too high for my taste. I have o
 
 This page is here to explain how you can build one by yourself.
 
+<img src="https://github.com/MathieuBahin/FlipPage/blob/main/image/FlipPageBox.jpg" width="200" >
+
 ## Electronics
 What do we need ?
 - a microcontroler
