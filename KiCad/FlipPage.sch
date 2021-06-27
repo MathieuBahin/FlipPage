@@ -4,11 +4,11 @@ EELAYER END
 $Descr A4 11693 8268
 encoding utf-8
 Sheet 1 1
-Title "FlipPage bluetooth "
-Date "2021-06-13"
-Rev "0"
-Comp ""
-Comment1 ""
+Title "Pédale bluetooth home made version"
+Date "2020-11-03"
+Rev ""
+Comp "BAHIN Mathieu"
+Comment1 "https://github.com/MathieuBahin/FlipPage"
 Comment2 ""
 Comment3 ""
 Comment4 ""
@@ -19,7 +19,7 @@ U 1 1 5F9722AD
 P 3450 3400
 F 0 "A1" H 3450 2311 50  0000 C CNN
 F 1 "Arduino_Nano_v3.x" H 3450 2220 50  0000 C CNN
-F 2 "librairie:Arduino_Nano_step" H 3450 3400 50  0001 C CIN
+F 2 "perso:Arduino_Nano_step" H 3450 3400 50  0001 C CIN
 F 3 "http://www.mouser.com/pdfdocs/Gravitech_Arduino_Nano3_0.pdf" H 3450 3400 50  0001 C CNN
 	1    3450 3400
 	1    0    0    -1  
@@ -121,7 +121,7 @@ U 1 1 5FA241C7
 P 1650 3050
 F 0 "J3" H 1707 3517 50  0000 C CNN
 F 1 "USB_B_Mini" H 1707 3426 50  0000 C CNN
-F 2 "librairie:USB_Mini-B_Lumberg_2486_01_Horizontal" H 1800 3000 50  0001 C CNN
+F 2 "perso:USB_Mini-B_Lumberg_2486_01_Horizontal" H 1800 3000 50  0001 C CNN
 F 3 "~" H 1800 3000 50  0001 C CNN
 	1    1650 3050
 	1    0    0    -1  
@@ -162,10 +162,13 @@ F 3 "" H 5700 4350 50  0001 C CNN
 	1    5700 4350
 	1    0    0    -1  
 $EndComp
-NoConn ~ 2950 3200
-NoConn ~ 2950 3100
-NoConn ~ 2950 2900
 NoConn ~ 2950 2800
+NoConn ~ 2950 2900
+NoConn ~ 2950 3100
+NoConn ~ 2950 3200
+NoConn ~ 2950 3500
+NoConn ~ 2950 3600
+NoConn ~ 2950 3700
 NoConn ~ 3950 2800
 NoConn ~ 3950 2900
 NoConn ~ 3950 3200
