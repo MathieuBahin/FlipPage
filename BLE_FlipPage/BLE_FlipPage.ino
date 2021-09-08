@@ -10,7 +10,7 @@
   #include <SoftwareSerial.h>
 #endif
 
-#define FACTORYRESET_ENABLE         1
+#define FACTORYRESET_ENABLE         0
 #define MINIMUM_FIRMWARE_VERSION    "0.6.6"
 
 /* ...hardware SPI, using SCK/MOSI/MISO hardware SPI pins and then user selected CS/IRQ/RST */
